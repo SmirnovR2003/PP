@@ -1,0 +1,32 @@
+﻿  BlurPicture.cpp
+C:\roman\C++\PP\lw2\BlurPicture\BlurPicture\BlurPicture.cpp(80,24): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\roman\C++\PP\lw2\BlurPicture\BlurPicture\BlurPicture.cpp(81,26): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\roman\C++\PP\lw2\BlurPicture\BlurPicture\BlurPicture.cpp(82,25): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\roman\C++\PP\lw2\BlurPicture\BlurPicture\BlurPicture.cpp(109,25): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\roman\C++\PP\lw2\BlurPicture\BlurPicture\BlurPicture.cpp(110,27): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+C:\roman\C++\PP\lw2\BlurPicture\BlurPicture\BlurPicture.cpp(111,26): warning C4244: =: преобразование "float" в "_Tp", возможна потеря данных
+          with
+          [
+              _Tp=uchar
+          ]
+  BlurPicture.vcxproj -> C:\roman\C++\PP\lw2\BlurPicture\x64\Debug\BlurPicture.exe
