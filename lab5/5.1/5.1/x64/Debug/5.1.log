@@ -1,0 +1,6 @@
+﻿  5.1.cpp
+C:\roman\C++\PP\lab5\5.1\5.1\5.1.cpp(56,26): warning C4311: приведение типов: усечение указателя из "const LPVOID" в "int"
+C:\roman\C++\PP\lab5\5.1\5.1\5.1.cpp(56,26): warning C4302: приведение типов: усечение из "const LPVOID" к "int"
+C:\roman\C++\PP\lab5\5.1\5.1\5.1.cpp(65,27): warning C4311: приведение типов: усечение указателя из "const LPVOID" в "int"
+C:\roman\C++\PP\lab5\5.1\5.1\5.1.cpp(65,27): warning C4302: приведение типов: усечение из "const LPVOID" к "int"
+  5.1.vcxproj -> C:\roman\C++\PP\lab5\5.1\x64\Debug\5.1.exe
